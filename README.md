@@ -10,6 +10,11 @@ A starting point for Neovim that is:
 
 **NOT** a Neovim distribution, but instead a starting point for your configuration.
 
+--Changes I, Jojo has made is:
+--Added Harpoon
+--Added transparency
+--<leader>pv for :Ex
+
 ## Installation
 
 ### Install Neovim
